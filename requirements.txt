@@ -1,0 +1,6 @@
+flask
+flask-cors
+deep-translator
+edge-tts
+yt-dlp
+gunicorn
